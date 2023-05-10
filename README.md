@@ -1,4 +1,4 @@
-# conversor_moedaBRL
+# conversor_moedaBRL feito em React Native (mobile)
 
 Esse App é um Conversor de varias moedas para Real - BRL
 
